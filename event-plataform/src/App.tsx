@@ -1,9 +1,9 @@
-import { Event } from "./pages/Event"
+import { Router } from "./router"
 
 function App() {
   return (
    <div>
-      <Event/>
+      <Router />
    </div>
   )
 }
